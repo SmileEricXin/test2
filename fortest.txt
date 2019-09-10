@@ -3,3 +3,7 @@ this is for test
 
 master 分支第一次修改
 master 分支第二次修改
+dev 分支上第一次修改
+dev 分支上第二次修改
+dev 分支上第三次修改
+dev 分支上第四次修改
